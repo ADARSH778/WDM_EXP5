@@ -123,7 +123,8 @@ if __name__ == "__main__":
 
 ### Output:
 
-![Screenshot 2024-09-28 134732](https://github.com/user-attachments/assets/455688ad-3f69-47f8-9ef5-0ac839a5dbeb)
+![Screenshot 2024-09-28 135054](https://github.com/user-attachments/assets/a90d7f55-806a-4017-a58a-f64b0d5ca363)
+
 
 
 ### Result:
